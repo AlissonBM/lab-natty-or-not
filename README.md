@@ -1,51 +1,100 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Metodo de investimentos para pessoas novas no mercado
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Algo relativaemnete simples, porém eu pedi para ele me dar uma explicação sobre alguns tipos de investimentos junto com pros e contras.
+Principais tipos foram: BDRS, Ações, Renda Fixa, FIIs e CriptoMoedas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizado principalmente o ChatGPT(OpenAI) e também o Gemini(Google)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O passo a passo do projeto foi fazer ele pensa como se estivesse escrevendo um arquivo sobre apenas investimentos. Fazendo assim agir como um consultor de investimentos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+# Os Benefícios de Fazer Investimentos: Onde e Como Investir
+Investir é uma prática essencial para alcançar segurança financeira e prosperidade a longo prazo. No entanto, muitas pessoas ainda têm dúvidas sobre onde investir seu dinheiro e quais são os benefícios e riscos associados a cada tipo de investimento. Este artigo aborda os principais tipos de investimentos – renda fixa, ações, BDRs, criptomoedas e fundos imobiliários (FIIs) – e analisa os prós e contras de cada um.
+
+## Renda Fixa
+Onde Investir: Títulos públicos (como Tesouro Direto), CDBs (Certificados de Depósito Bancário), LCIs (Letras de Crédito Imobiliário) e LCAs (Letras de Crédito do Agronegócio).
+
+Prós:
+
+Segurança: Renda fixa é geralmente menos volátil e mais segura que ações e criptomoedas.
+Previsibilidade: Os retornos são conhecidos antecipadamente, o que facilita o planejamento financeiro.
+Proteção: Alguns títulos, como o Tesouro Direto, são garantidos pelo governo.
+Contras:
+
+Baixos Retornos: Os rendimentos são geralmente mais baixos em comparação com investimentos de maior risco.
+Inflação: Os ganhos podem não superar a inflação, diminuindo o poder de compra ao longo do tempo.
+
+## Ações
+Onde Investir: Bolsa de Valores, através de corretoras de valores.
+
+Prós:
+
+Alto Potencial de Retorno: Ações podem proporcionar retornos significativos, especialmente a longo prazo.
+Dividendos: Algumas empresas pagam dividendos regulares, proporcionando renda passiva.
+Diversificação: Possibilidade de investir em diversos setores da economia.
+Contras:
+
+Risco: Alta volatilidade e possibilidade de perdas significativas.
+Complexidade: Requer conhecimento e acompanhamento constante do mercado.
+Tempo: Pode levar tempo para ver retornos significativos.
+
+## BDRs
+Onde Investir: Bolsa de Valores, através de corretoras de valores.
+
+Prós:
+
+Diversificação Internacional: Permitem investir em empresas estrangeiras sem a necessidade de abrir uma conta no exterior.
+Acesso a Grandes Empresas: Possibilidade de investir em empresas globais renomadas, como Apple, Amazon e Google.
+Contras:
+
+Taxas: Podem ter taxas mais elevadas em comparação com ações nacionais.
+Risco Cambial: Flutuações cambiais podem impactar os retornos.
+Regulamentação: Podem estar sujeitos a regras e regulamentos diferentes.
+
+## Criptomoedas
+Onde Investir: Exchanges de criptomoedas, como Binance, Coinbase e outras plataformas.
+
+Prós:
+
+Altíssimo Potencial de Retorno: Criptomoedas podem valorizar-se rapidamente.
+Descentralização: Não são controladas por governos ou instituições financeiras.
+Inovação: Participação em uma tecnologia emergente e disruptiva.
+Contras:
+
+Volatilidade Extrema: Preços podem flutuar drasticamente em curtos períodos.
+Risco de Segurança: Riscos associados a hacks e fraudes.
+Regulação: Incerteza regulatória em muitos países.
+
+## Fundos Imobiliários (FIIs)
+Onde Investir: Bolsa de Valores, através de corretoras de valores.
+
+Prós:
+
+Renda Passiva: FIIs distribuem rendimentos mensais aos investidores.
+Diversificação: Investimento em diversos tipos de imóveis, como comerciais, residenciais e logísticos.
+Liquidez: Maior liquidez em comparação com imóveis físicos.
+
+Contras:
+
+Valorização Limitada: Potencial de valorização do capital pode ser menor em comparação com ações.
+Risco de Mercado: O valor das cotas pode flutuar com base nas condições do mercado imobiliário.
+Taxas: Podem haver taxas de administração e performance que afetam os rendimentos.
+
+## Conclusão
+
+Investir não é apenas para os ricos ou para aqueles com formação financeira especializada. É uma prática acessível a todos, que pode transformar significativamente o futuro financeiro de qualquer pessoa. Abaixo, resumimos os prós e contras de cada tipo de investimento:
+
+#### Renda Fixa: Segurança e previsibilidade, mas com baixos retornos e risco de não superar a inflação.
+#### Ações: Alto potencial de retorno e dividendos, mas com risco elevado e necessidade de conhecimento.
+#### BDRs: Diversificação internacional e acesso a grandes empresas, mas com taxas elevadas e risco cambial.
+#### Criptomoedas: Altíssimo potencial de retorno e inovação, mas com extrema volatilidade e risco de segurança.
+#### FIIs: Renda passiva e diversificação imobiliária, mas com valorização limitada e risco de mercado.
+
+Cada tipo de investimento tem suas vantagens e desvantagens, e a melhor escolha depende dos objetivos financeiros, tolerância ao risco e horizonte de tempo de cada investidor. É fundamental educar-se continuamente, diversificar seu portfólio e adotar uma abordagem disciplinada para garantir um futuro financeiro mais seguro e próspero.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Sabemos que nada pode ser realmente perfeito, porém com a prática e também a alimentação de maquina feita corretamente. Tudo pode chegar em um patamar muito bom independente da dificuldade.
